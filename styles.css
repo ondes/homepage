@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 :root {
-  --bg: #5f4b8b;
+  --bg: #2971d8;
   --fg: #ffffff;
   --secondaryFg: #b3b3b3;
   --containerBg: #272727;
@@ -111,7 +111,7 @@ body {
 
 .bookmark-inner-container {
   overflow-y: scroll;
-  height: 80%;
+  height: auto;
   vertical-align: top;
   padding-right: 6px;
   box-sizing: border-box;
